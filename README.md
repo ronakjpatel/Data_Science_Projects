@@ -1,8 +1,10 @@
-# Small Code Snippets 
+# Small but exceptionally valuable code snippets :fire: :gift:
 
-## Aim of this Repo
+## Aim of this Repo 
 
 In this repository, I will add small but very important code snippets which would explain very critical data science's concepts. I will try to make visualizations to understand concepts better. 
+
+ :medal_military:Understanding of this concepts help me and you to understand the AI algorithms better.
 
 Thanks heaps.
 
