@@ -10,4 +10,7 @@ Thanks heaps.
 
 # Some Glipse of the work
 
+### Hyperparameter Tuning Importance
 ![Hyperparameter Tuning Importance](https://user-images.githubusercontent.com/40088060/126930425-6af7c686-e4b3-4811-81a1-01ffaa82622e.gif)
+### Image Data Augmentations
+![animation](https://user-images.githubusercontent.com/40088060/127957481-5faaabf8-7381-45cd-bf4a-1307d5fb0c5f.gif)
